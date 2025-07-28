@@ -1,5 +1,8 @@
 Neste projeto, explorei a base de dados de vendas simuladas encontrada em kaggle (https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) com 2.823 linhas e 25 colunas, contendo informações detalhadas sobre pedidos, clientes, produtos, datas e valores financeiros.
-Descobri que a base oferece um retrato bastante completo de cada transação, desde o número do pedido, quantidade encomendada e preço unitário, até dados do cliente como nome, cidade e etc. Segue abaixo um Markdown sobre cada passo.
+Descobri que a base oferece um retrato bastante completo de cada transação, desde o número do pedido, quantidade encomendada e preço unitário, até dados do cliente como nome, cidade e etc. 
+Para isso utilizei também as seguintes bibliotecas e ferramentas: pandas numps e matplotlib. A análise foi feita utilizando a linguagem de programação python.
+
+Segue abaixo um Markdown sobre cada passo.
 
 # 1. Visão Geral da Base
 Ao rodar o `df.head()`, já foi possível perceber que essa base traz um retrato completo de cada pedido: desde o número do pedido, quantidade encomendada e preço unitário, até o total da venda, data do pedido, status de envio e dados detalhados do cliente, como nome, cidade, país e até o tamanho do negócio.
