@@ -1,5 +1,4 @@
-# data-driven-insights
-Neste projeto, explorei a base de dados de vendas simuladas encontrada em kaggle com 2.823 linhas e 25 colunas, contendo informações detalhadas sobre pedidos, clientes, produtos, datas e valores financeiros.
+Neste projeto, explorei a base de dados de vendas simuladas encontrada em kaggle (https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) com 2.823 linhas e 25 colunas, contendo informações detalhadas sobre pedidos, clientes, produtos, datas e valores financeiros.
 Descobri que a base oferece um retrato bastante completo de cada transação, desde o número do pedido, quantidade encomendada e preço unitário, até dados do cliente como nome, cidade e etc. Segue abaixo um Markdown sobre cada passo.
 
 # 1. Visão Geral da Base
@@ -42,6 +41,10 @@ A análise de frequência na coluna PRODUCTLINE mostrou que as categorias **Moto
 
 
 # 7. Visualizações
+<img width="567" height="471" alt="image" src="https://github.com/user-attachments/assets/2b287baf-1bd2-4363-8e09-ac4ea80ea239" /> <img width="567" height="535" alt="image" src="https://github.com/user-attachments/assets/5af11661-c313-4162-9a6b-acb03bfefac4" /> <img width="594" height="455" alt="image" src="https://github.com/user-attachments/assets/20b40209-f845-40fe-b3bf-1a1adb60aa9d" />
+
+
+
 
 - O gráfico de vendas mensais mostrou menor volume nos meses de junho a setembro de 2003, com picos de vendas em novembro de 2003 e 2004.
 
